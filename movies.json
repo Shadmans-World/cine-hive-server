@@ -1,0 +1,102 @@
+[
+    {
+      "MoviePoster": "https://i.ibb.co.com/mXXvT9Y/Avatar.jpg",
+      "MovieTitle": "Avatar",
+      "Genre": ["Sci-Fi", "Adventure", "Fantasy"],
+      "Duration": 162,
+      "ReleaseYear": 2009,
+      "Rating": 7.9,
+      "Summary": "A paraplegic Marine is sent to Pandora on a unique mission, but becomes torn between following orders and protecting the world he feels is his home."
+    },
+    {
+      "MoviePoster": "https://i.ibb.co.com/HPhpwBW/avengers-endgame.jpg",
+      "MovieTitle": "Avengers: Endgame",
+      "Genre": ["Action", "Adventure", "Sci-Fi"],
+      "Duration": 181,
+      "ReleaseYear": 2019,
+      "Rating": 8.4,
+      "Summary": "After the devastating events of Infinity War, the Avengers assemble once more to undo Thanos' actions and restore order to the universe."
+    },
+    {
+      "MoviePoster": "https://i.ibb.co.com/jfs8VMM/titanic.jpg",
+      "MovieTitle": "Titanic",
+      "Genre": ["Romance", "Drama"],
+      "Duration": 195,
+      "ReleaseYear": 1997,
+      "Rating": 7.9,
+      "Summary": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+    },
+    {
+      "MoviePoster": "https://i.ibb.co.com/BfsLn4H/Star-Wars-The-Force-Awakens.jpg",
+      "MovieTitle": "Star Wars: The Force Awakens",
+      "Genre": ["Action", "Adventure", "Sci-Fi"],
+      "Duration": 138,
+      "ReleaseYear": 2015,
+      "Rating": 7.8,
+      "Summary": "Three decades after the defeat of the Galactic Empire, a new threat arises. Rey, a scavenger, and Finn, an ex-stormtrooper, join forces with Han Solo to defeat it."
+    },
+    {
+      "MoviePoster": "https://i.ibb.co.com/Sd8FY4y/Avengers-Infinity-War.jpg",
+      "MovieTitle": "Avengers: Infinity War",
+      "Genre": ["Action", "Adventure", "Sci-Fi"],
+      "Duration": 149,
+      "ReleaseYear": 2018,
+      "Rating": 8.4,
+      "Summary": "The Avengers and their allies must sacrifice all to attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+    },
+    {
+      "MoviePoster": "https://i.ibb.co.com/mXQyRy5/Spider-Man-No-Way-Home.jpg",
+      "MovieTitle": "Spider-Man: No Way Home",
+      "Genre": ["Action", "Adventure", "Fantasy"],
+      "Duration": 148,
+      "ReleaseYear": 2021,
+      "Rating": 8.3,
+      "Summary": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help, but the spell goes wrong, unleashing dangerous foes from other worlds."
+    },
+    {
+      "MoviePoster": "https://i.ibb.co.com/tZGV7t9/Jurassic-World.jpg",
+      "MovieTitle": "Jurassic World",
+      "Genre": ["Action", "Adventure", "Sci-Fi"],
+      "Duration": 124,
+      "ReleaseYear": 2015,
+      "Rating": 7.0,
+      "Summary": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, which escapes containment and goes on a killing spree."
+    },
+    {
+      "MoviePoster": "https://i.ibb.co.com/ZTkp4pV/The-Lion-King.jpg",
+      "MovieTitle": "The Lion King",
+      "Genre": ["Animation", "Adventure", "Drama"],
+      "Duration": 118,
+      "ReleaseYear": 2019,
+      "Rating": 6.8,
+      "Summary": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
+    },
+    {
+      "MoviePoster": "https://i.ibb.co.com/sRyjwCf/Furious-7.jpg",
+      "MovieTitle": "Furious 7",
+      "Genre": ["Action", "Adventure", "Crime"],
+      "Duration": 137,
+      "ReleaseYear": 2015,
+      "Rating": 7.1,
+      "Summary": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother."
+    },
+    {
+      "MoviePoster": "https://i.ibb.co.com/XZHtDqQ/Frozen-II.jpg",
+      "MovieTitle": "Frozen II",
+      "Genre": ["Animation", "Adventure", "Comedy"],
+      "Duration": 103,
+      "ReleaseYear": 2019,
+      "Rating": 6.8,
+      "Summary": "Anna, Elsa, Kristoff, Olaf, and Sven leave Arendelle to travel to an ancient, autumn-bound forest in an enchanted land to uncover the origin of Elsa's powers."
+    }
+  ]
+  
+  
+
+
+
+
+
+
+
+
